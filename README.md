@@ -1,5 +1,5 @@
 # 💫 About Me:
-just a simple developer who creates problems for solutions.
+just a simple developer who creates problems for the solution.
 
 
 ## 🌐 Socials:
