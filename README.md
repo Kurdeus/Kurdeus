@@ -2,6 +2,10 @@
 just a simple developer who creates problems for the solution.
 
 
+
+#### Note: `If you Like My Works, Give Stars ⭐ to the Repo and Follow Me on Github`
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shahabadin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shahabadin79) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kurdeus)
 
