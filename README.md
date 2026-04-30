@@ -11,7 +11,6 @@
   <a href="https://x.com/Shahabadin79"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://t.me/Kurdeus"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Kurdeus&label=Shinobi+Visitors&color=brightgreen&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/badge/Baka-Dev-ff69b4?style=flat-square&logo=undertale&logoColor=white" alt="Baka Dev"/>
   <img src="https://img.shields.io/badge/Power%20Level-9000%2B-blueviolet?style=flat-square&logo=superuser&logoColor=white" alt="Power Level"/>
 </p>
