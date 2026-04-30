@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-- 🧩 I speak **Python**, **C**, **Kotlin** – and a little sarcasm.  
+- 🧩 I speak **Python**, **Kotlin** – and a little sarcasm.  
 - 🚀 Building backends that sometimes crash forward.  
 - 🧠 Currently learning how to turn bugs into features.  
 - 🤣 **Joke:** It’s not a bug, it’s an undocumented alchemical reaction. *NANI?!*
