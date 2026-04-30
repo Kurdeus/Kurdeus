@@ -80,9 +80,6 @@
 - 🧩 I speak **Python**, **C**, **Kotlin** – and a little sarcasm.  
 - 🚀 Building backends that sometimes crash forward.  
 - 🧠 Currently learning how to turn bugs into features.  
-- 📺 Currently watching:  
-  <a href="https://anilist.co/user/Kurdeus/" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.anilist.co/anime?username=Kurdeus&query=$.data.Media.title.romaji&label=Watching&color=9b59b6&style=flat-square&logo=anilist&logoColor=white" alt="AniList Now Watching" /></a>  
-  *(replace `Kurdeus` with your AniList username, or use [this widget](https://github.com/anilstats/anime-widget))*
 
 ---
 
