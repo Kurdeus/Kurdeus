@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Just+a+simple+developer+who+creates+problems+for+the+solution.;Believe+it!+%F0%9F%8D%83;Code+no+Jutsu+%F0%9F%92%BB%E2%9C%A8;Wake+up+to+reality...+nothing+ever+goes+as+planned+in+production." alt="Typing SVG" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Wake+up+to+reality...+nothing+ever+goes+as+planned+in+production." alt="Typing SVG" />
 </p>
 
@@ -73,85 +76,3 @@
 ---
  
 ✨ *Don't forget to ⭐ the repos you like – it fuels my caffeine-free coding sessions.*
-
-## 👨‍💻 About Me
-
-- 🔥 **Motto:** *If it works, I’ll find a way to break it – then fix it beautifully.*  
-- 🧩 I speak **Python**, **C**, **Kotlin** – and a little sarcasm.  
-- 🚀 Building backends that sometimes crash forward.  
-- 🧠 Currently learning how to turn bugs into features.  
-
----
-
-## 🛠️ Tech Stack & Ninja Tools
-
-### Languages  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Backend & API  
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### Databases  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Devops & Tools  
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🎶 Coding Soundtrack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Unravel-Tokyo%20Ghoul-ff0000?style=flat-square&logo=spotify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blue%20Bird-Naruto%20Shippuden-00bfff?style=flat-square&logo=spotify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gurenge-Demon%20Slayer-ff69b4?style=flat-square&logo=spotify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Silhouette-Naruto%20Shippuden-ffa500?style=flat-square&logo=spotify&logoColor=white" />
-</p>
-
----
-
-## 📊 Shinobi Stats
-
-<table align="center">
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kurdeus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&title_color=00F7FF&icon_color=00F7FF" />
-</td>
-<td>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kurdeus&theme=dark&hide_border=false&stroke=00F7FF&ring=00F7FF&fire=00F7FF" />
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurdeus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=00F7FF" />
-</p>
-
----
-
-## 🍥 Favourite Anime
-
-| Anime | Character | Quote |
-|-------|-----------|-------|
-| **Naruto** | 🍜 Naruto | *“I never go back on my word, that's my nindō!”* |
-| **Death Note** | ✍️ L | *“Risking your life and doing something that could rob you of your life are exact opposites.”* |
-| **Attack on Titan** | ⚔️ Levi | *“No regrets. That's my motto.”* |
-
----
-
-## ⚡ Ninja Scroll of Wisdom
-
-> I don't always test my code, but when I do, it’s in production.  
-> *“If at first you don’t succeed – call it version 1.0.”*  
-> **NANI?!** My code works on the first try... impossible!  
-> *“Even bugs fear a determined debugger… sometimes.”*
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="Anime coding gif" />
-</p>
-
-<p align="center">
-  <i>✨ Don't forget to ⭐ the repos you like – it fuels my caffeine-free coding sessions and chakra reserves.</i>
-</p>
