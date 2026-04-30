@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Just+a+simple+developer+who+creates+problems+for+the+solution.;Believe+it!+%F0%9F%8D%83;Code+no+Jutsu+%F0%9F%92%BB%E2%9C%A8;Wake+up+to+reality...+nothing+ever+goes+as+planned+in+production." alt="Typing SVG" />
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Wake+up+to+reality...+nothing+ever+goes+as+planned+in+production." alt="Typing SVG" />
 </p>
 
