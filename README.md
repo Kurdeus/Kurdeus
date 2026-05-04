@@ -5,6 +5,7 @@
 <h3 align="center">
   ⚙️ Code-Metal Alchemist: cmdhood
 </h3>
+![GitHub contribution graph](https://activity-graph.vercel.app/graph?username=Kurdeus&theme=react-dark&hide_border=true&custom_title=GitHub%20Activity)
 
 <p align="center">
   <a href="https://instagram.com/Shahabadin"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
