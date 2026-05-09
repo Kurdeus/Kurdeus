@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Wake+up+to+reality...+nothing+ever+goes+as+planned+in+production.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Wake+up+to+reality...+nothing+ever+goes+as+planned+in+production.)
 
 
 ![GitHub contribution graph](https://activity-graph.vercel.app/graph?username=Kurdeus&theme=react-dark&hide_border=true&custom_title=GitHub%20Activity)
